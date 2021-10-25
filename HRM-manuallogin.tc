@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>using manual entry to object we have to enter validation and object into page</description>
+   <name>HRM-manuallogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6d32e6c-445e-446b-b040-2102bedf4dd5</testCaseGuid>
+</TestCaseEntity>
